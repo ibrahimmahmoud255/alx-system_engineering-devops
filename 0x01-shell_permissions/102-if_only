@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -preserve-guillaume betty hello
+chown -preserve-betty hello
